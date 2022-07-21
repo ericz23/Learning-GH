@@ -8,5 +8,5 @@
 import Foundation
 
 class MyModel {
-    var name:String?
+    var name:String = "Eric"
 }
